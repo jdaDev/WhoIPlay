@@ -1,0 +1,20 @@
+h2{
+  text-align: center;
+  top: 10%;
+}
+
+div{
+  top: 15%;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+  top: 15%;
+}
+
+button{
+  position: relative;
+  top: 20%;
+}
